@@ -42,3 +42,5 @@
 2018-07-09 16:07:08,772 INFO  [Log] Value Entered Field Name:-filterQuoteIdTxt, Value:-456934 
 2018-07-09 16:07:10,155 INFO  [Log] Button clicked:- Search 
 2018-07-09 16:07:20,612 ERROR [Log] Class-AcceptPageObject | Method-findRecord | Exception desc : Expected condition failed: waiting for element to be clickable: By.xpath: .//*[contains(text(),'456934')] (tried for 10 second(s) with 500 milliseconds interval) 
+
+---Added text
