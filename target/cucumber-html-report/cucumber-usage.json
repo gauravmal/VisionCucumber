@@ -1,0 +1,74 @@
+[
+  {
+    "source": "^Click \"([^\"]*)\" url$",
+    "steps": [
+      {
+        "name": "Click \"j_idt36:5:j_idt38:1:j_idt39\" url",
+        "aggregatedDurations": {
+          "average": 3.238433863,
+          "median": 3.238433863
+        },
+        "durations": [
+          {
+            "duration": 3.238433863,
+            "location": "ACCEPT_Accept_Quote.feature:8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Click \"([^\"]*)\" button$",
+    "steps": [
+      {
+        "name": "Click \"Search\" button",
+        "aggregatedDurations": {
+          "average": 1.382312141,
+          "median": 1.382312141
+        },
+        "durations": [
+          {
+            "duration": 1.382312141,
+            "location": "ACCEPT_Accept_Quote.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Login into vision \"([^\"]*)\"$",
+    "steps": [
+      {
+        "name": "Login into vision \"QA2\"",
+        "aggregatedDurations": {
+          "average": 11.235376813,
+          "median": 11.235376813
+        },
+        "durations": [
+          {
+            "duration": 11.235376813,
+            "location": "ACCEPT_Accept_Quote.feature:7"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Type \"([^\"]*)\" into the \"([^\"]*)\" field$",
+    "steps": [
+      {
+        "name": "Type \"456934\" into the \"filterQuoteIdTxt\" field",
+        "aggregatedDurations": {
+          "average": 1.561799965,
+          "median": 1.561799965
+        },
+        "durations": [
+          {
+            "duration": 1.561799965,
+            "location": "ACCEPT_Accept_Quote.feature:9"
+          }
+        ]
+      }
+    ]
+  }
+]
